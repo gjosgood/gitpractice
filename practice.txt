@@ -1,4 +1,12 @@
 Elamsobrans
 rule
-sfa
-d
+
+
+
+harks yay  sharks sharks
+
+GitPlus package "Add (for one file)" GitPlus commit
+Type in at beginning of file "Third commit" etc - marks on left disappear -
+officially have committed this version of the file
+
+ git pull upstream master to get from git hub repositories  
